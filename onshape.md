@@ -2,6 +2,8 @@
 
 A la hora de utilizar onshape, es posible que nos den errores a la hora de hacer los bocetos. Eso es debido a que existen unas restricciones que a veces nos impiden llevar a cabo el trabajo con total libertad. Estas restricciones son las siguientes:
 
+![kkkk](https://github.com/Mikeey666/2nd-trimestre/blob/main/Captura%20de%20pantalla%20de%202022-02-24%2009-57-40.png?raw=true)
+
 · **Coincidente**
 
 Esta restriccion hace que dos o mas entidades seleccionadas compartan la misma ubicacion en el boceto.
