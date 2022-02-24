@@ -1,4 +1,4 @@
-##Restricciones
+#Restricciones
 
 A la hora de utilizar onshape, es posible que nos den errores a la hora de hacer los bocetos. Eso es debido a que existen unas restricciones que a veces nos impiden llevar a cabo el trabajo con total libertad. Estas restricciones son las siguientes:
 
