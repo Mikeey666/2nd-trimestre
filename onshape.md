@@ -54,7 +54,17 @@ Permite que dos identidades del mismo tipo sean simetricas, relativas a un plano
 
 Permite asegurar una entidad de boceto para que no se mueva.
 
+# Proyectos
 
+![](https://github.com/Mikeey666/2nd-trimestre/blob/5a5c2f4ef3fe2f1bf29dd9132eed363f748c9ad6/Captura%20de%20pantalla%20de%202022-05-23%2010-09-12.png)
+
+![](https://github.com/Mikeey666/2nd-trimestre/blob/fd8915efc1e35219c33ce58198623a998ce5217e/Captura%20de%20pantalla%20de%202022-05-23%2010-09-44.png)
+
+![](https://github.com/Mikeey666/2nd-trimestre/blob/0126b8609ada9a04d2cc56fe520795d36be2a3b7/Captura%20de%20pantalla%20de%202022-05-23%2010-10-07.png)
+
+![](https://github.com/Mikeey666/2nd-trimestre/blob/322ff0b1f8c77b6e4b1d1c9543acc2bc0cb1e2c3/Captura%20de%20pantalla%20de%202022-05-23%2010-10-26.png)
+
+![](https://github.com/Mikeey666/2nd-trimestre/blob/8d05e2d8b8d5505177f3d677a3860404f7bfca73/Captura%20de%20pantalla%20de%202022-05-23%2010-10-50.png)
 
 
 
