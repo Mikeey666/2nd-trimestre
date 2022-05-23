@@ -1,4 +1,14 @@
-## Restricciones
+## Onshape
+
+A lo largo del segundo trimestre hemos hecho varios trabajos de modelaje 3D utilizando la herramienta Onshape.  
+  
+Onshape es un programa que permite a sus usuarios diseñar diferentes tipos de productos en 3D, según lo que tengan en mente.
+
+Nosotros hemos ido creando diferentes tipos de figuras: cuadradas, rectangulares... Desde cajas hasta piezas de ajedrez. Siempre pensando en las medidas que la impresora laser puede soportar.
+
+Es una herramienta realmente útil, ya que te permite crear todo lo que puedas necesitar, siempre y cuando el diseño del producto funcione con la impresora laser a disposición.
+
+# Restricciones
 
 A la hora de utilizar onshape, es posible que nos den errores a la hora de hacer los bocetos. Eso es debido a que existen unas restricciones que a veces nos impiden llevar a cabo el trabajo con total libertad. Estas restricciones son las siguientes:
 
